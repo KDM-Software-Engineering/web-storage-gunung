@@ -1,0 +1,14 @@
+[
+  {
+    "nama": "Ramzi",
+    "hobi": "Lari",
+    "tinggiBadan": 167,
+    "terimaBeasiswa": true
+  },
+  {
+    "nama": "Rizal",
+    "hobi": "Coding",
+    "tinggiBadan": 163,
+    "terimaBeasiswa": true
+  }
+]

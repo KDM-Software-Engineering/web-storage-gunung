@@ -1,0 +1,38 @@
+body {
+  font-family: sans-serif;
+}
+.container {
+  max-width: 1024px;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+  justify-content: stretch;
+}
+
+h1 {
+  font-size: 1em;
+}
+
+.form-section {
+  width: 400px;
+}
+
+.data-table {
+  flex-grow: 1;
+}
+
+.data-table > h2 {
+  text-align: center;
+}
+
+.input-group {
+  display: flex;
+  gap: 0.3rem;
+  flex-direction: column;
+  margin-bottom: 1rem;
+}
+
+#penerimaBeasiswa {
+  justify-self: start;
+  align-self: start;
+}
